@@ -10,8 +10,8 @@ import { motion } from 'motion/react';
 export default function CalculatorPage() {
   const [salary, setSalary] = useState(85000);
 
-  const eliteSalary = salary * 2.17;
-  const annualIncrease = eliteSalary - salary;
+  const devoraSalary = salary * 2.17;
+  const annualIncrease = devoraSalary - salary;
 
   return (
     <PageLayout>
@@ -58,8 +58,8 @@ export default function CalculatorPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 pt-6">
             <div className="p-8 rounded-3xl bg-slate-50 border border-slate-100 space-y-2">
-              <p className="text-[10px] font-black text-slate-400 uppercase tracking-widest">Elite Remote Salary</p>
-              <p className="text-4xl font-display font-black text-slate-900">${Math.round(eliteSalary).toLocaleString()}</p>
+              <p className="text-[10px] font-black text-slate-400 uppercase tracking-widest">devorapartners Remote Salary</p>
+              <p className="text-4xl font-display font-black text-slate-900">${Math.round(devoraSalary).toLocaleString()}</p>
               <p className="text-xs font-bold text-green-600 flex items-center gap-1">
                 <TrendingUp size={14} /> 2.17x Increase
               </p>

@@ -20,10 +20,10 @@ export default function RegisterPage() {
               <div className="bg-indigo-600 p-2.5 rounded-xl shadow-lg shadow-indigo-100 group-hover:scale-110 transition-transform">
                 <Zap size={32} className="text-white" fill="currentColor" />
               </div>
-              <h1 className="text-4xl font-display font-black tracking-tighter text-slate-900">Elite</h1>
+              <h1 className="text-4xl font-display font-black tracking-tighter text-slate-900">devorapartners</h1>
             </Link>
             <div className="space-y-1">
-              <h2 className="text-3xl font-display font-bold text-slate-900">Join the Elite 1%.</h2>
+              <h2 className="text-3xl font-display font-bold text-slate-900">Join devorapartners 1%.</h2>
               <p className="text-slate-500 font-medium">Start your journey to world-class AI roles</p>
             </div>
           </div>

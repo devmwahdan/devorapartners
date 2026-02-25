@@ -68,7 +68,7 @@ export default function VettingPage() {
             animate={{ opacity: 1, y: 0 }}
             className="inline-block px-4 py-1.5 text-[10px] font-black tracking-[0.2em] uppercase text-indigo-600 bg-indigo-50 border border-indigo-100 rounded-full"
           >
-            Elite Network
+            devorapartners Network
           </motion.span>
           <motion.h1 
             initial={{ opacity: 0, y: 20 }}
@@ -84,7 +84,7 @@ export default function VettingPage() {
             transition={{ delay: 0.2 }}
             className="text-slate-500 text-xl font-medium leading-relaxed max-w-2xl mx-auto"
           >
-            Ensuring only the top 1% of global talent joins our elite AI-first network.
+            Ensuring only the top 1% of global talent joins our devorapartners AI-first network.
           </motion.p>
         </div>
 
@@ -132,7 +132,7 @@ export default function VettingPage() {
         </div>
 
         <button className="w-full bg-indigo-600 text-white font-black py-5 rounded-2xl shadow-xl shadow-indigo-200 flex items-center justify-center gap-3 hover:bg-indigo-700 hover:scale-[1.01] transition-all uppercase tracking-widest text-sm">
-          Start Hiring Elite Talent <ArrowRight size={20} />
+          Start Hiring devorapartners Talent <ArrowRight size={20} />
         </button>
       </div>
     </PageLayout>

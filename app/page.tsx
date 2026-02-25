@@ -39,7 +39,7 @@ export default function HomePage() {
                 transition={{ duration: 0.5, delay: 0.2 }}
                 className="text-xl text-slate-600 leading-relaxed max-w-2xl"
               >
-                Elite connects innovative global enterprises with pre-vetted, world-class engineers. Our AI-driven vetting process ensures a 98% placement success rate.
+                devorapartners connects innovative global enterprises with pre-vetted, world-class engineers. Our AI-driven vetting process ensures a 98% placement success rate.
               </motion.p>
               <motion.div
                 initial={{ opacity: 0, y: 20 }}
@@ -75,7 +75,7 @@ export default function HomePage() {
                   ))}
                 </div>
                 <div className="text-sm">
-                  <span className="font-bold text-slate-900">500+</span> companies trust Elite
+                  <span className="font-bold text-slate-900">500+</span> companies trust devorapartners
                 </div>
               </motion.div>
             </div>
@@ -89,7 +89,7 @@ export default function HomePage() {
               >
                 <Image
                   src="https://picsum.photos/800/1000?random=1"
-                  alt="Elite Talent"
+                  alt="devorapartners Talent"
                   fill
                   className="object-cover"
                   referrerPolicy="no-referrer"
@@ -101,7 +101,7 @@ export default function HomePage() {
                     <span className="text-[10px] font-bold uppercase tracking-widest text-slate-500">Live Placement</span>
                   </div>
                   <p className="text-sm font-bold text-slate-900 leading-snug">
-                    &quot;Elite matched us with a Senior AI Engineer in just 48 hours. The quality is unmatched.&quot;
+                    &quot;devorapartners matched us with a Senior AI Engineer in just 48 hours. The quality is unmatched.&quot;
                   </p>
                   <p className="text-[10px] text-slate-500 mt-2 font-medium">CTO, NeuralMind Labs</p>
                 </div>
@@ -138,7 +138,7 @@ export default function HomePage() {
       <section className="py-24 bg-slate-50">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="text-center max-w-3xl mx-auto mb-20 space-y-4">
-            <h2 className="text-xs font-bold text-indigo-600 uppercase tracking-widest">Why Elite?</h2>
+            <h2 className="text-xs font-bold text-indigo-600 uppercase tracking-widest">Why devorapartners?</h2>
             <p className="text-4xl font-display font-bold text-slate-900 tracking-tight">Built for the next generation of global teams.</p>
           </div>
           
@@ -185,7 +185,7 @@ export default function HomePage() {
                 <div className="flex size-10 items-center justify-center rounded-xl bg-indigo-600 text-white">
                   <Zap size={24} fill="currentColor" />
                 </div>
-                <h2 className="text-xl font-display font-bold tracking-tight text-slate-900">Elite</h2>
+                <h2 className="text-xl font-display font-bold tracking-tight text-slate-900">devorapartners</h2>
               </Link>
               <p className="text-slate-500 max-w-xs leading-relaxed">
                 The world&apos;s most advanced AI-first recruitment platform for top 1% global tech talent.
@@ -217,7 +217,7 @@ export default function HomePage() {
             </div>
           </div>
           <div className="pt-8 border-t border-slate-100 flex flex-col md:flex-row justify-between items-center gap-4">
-            <p className="text-xs text-slate-400 font-medium">© 2026 Elite Recruitment AI. All rights reserved.</p>
+            <p className="text-xs text-slate-400 font-medium">© 2026 devorapartners Recruitment AI. All rights reserved.</p>
             <div className="flex gap-6 text-xs text-slate-400 font-medium">
               <Link href="#" className="hover:text-indigo-600">Privacy Policy</Link>
               <Link href="#" className="hover:text-indigo-600">Terms of Service</Link>

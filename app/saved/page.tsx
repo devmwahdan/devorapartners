@@ -78,7 +78,7 @@ export default function SavedPage() {
             </div>
             <div className="space-y-2">
               <h2 className="text-3xl font-display font-bold text-slate-900">No saved jobs yet.</h2>
-              <p className="text-slate-500 max-w-xs mx-auto font-medium">Start exploring elite AI roles and save the ones that match your expertise.</p>
+              <p className="text-slate-500 max-w-xs mx-auto font-medium">Start exploring devorapartners AI roles and save the ones that match your expertise.</p>
             </div>
             <Link href="/jobs" className="bg-indigo-600 text-white font-black py-4 px-10 rounded-2xl shadow-xl shadow-indigo-100 hover:bg-indigo-700 transition-all uppercase tracking-widest text-sm">
               Explore Jobs

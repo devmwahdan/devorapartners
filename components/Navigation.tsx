@@ -14,7 +14,7 @@ export function Navbar() {
           <div className="flex size-10 items-center justify-center rounded-xl bg-indigo-600 text-white shadow-lg shadow-indigo-200 group-hover:scale-105 transition-transform">
             <Zap size={22} fill="currentColor" />
           </div>
-          <h2 className="text-xl font-display font-bold tracking-tight text-slate-900">Elite<span className="text-indigo-600">Recruit</span></h2>
+          <h2 className="text-xl font-display font-bold tracking-tight text-slate-900">devora<span className="text-indigo-600">partners</span></h2>
         </Link>
         <div className="hidden md:flex items-center gap-8">
           <Link href="/jobs" className="text-sm font-semibold text-slate-600 hover:text-indigo-600 transition-colors">Jobs</Link>
@@ -27,7 +27,7 @@ export function Navbar() {
         <div className="flex items-center gap-4">
           <Link href="/login" className="hidden md:block text-sm font-bold text-slate-600 hover:text-indigo-600 transition-colors">Log in</Link>
           <Link href="/register" className="hidden md:block px-5 py-2.5 bg-indigo-600 text-white text-sm font-bold rounded-xl shadow-md shadow-indigo-100 hover:bg-indigo-700 transition-all">
-            Join Elite
+            Join devorapartners
           </Link>
           <Link href="/messages" className="hidden md:flex p-2 text-slate-500 hover:text-indigo-600 transition-colors">
             <MessageSquare size={20} />

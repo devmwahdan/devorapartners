@@ -46,7 +46,7 @@ export default function TalentPage() {
             <div className="bg-indigo-600 p-2 rounded-xl shadow-lg shadow-indigo-100">
               <Star size={20} className="text-white" fill="currentColor" />
             </div>
-            <h1 className="text-xl font-display font-bold tracking-tight text-slate-900">Elite Talent Pool</h1>
+            <h1 className="text-xl font-display font-bold tracking-tight text-slate-900">devorapartners Talent Pool</h1>
           </div>
           <button className="p-2.5 hover:bg-slate-100 rounded-xl transition-colors text-slate-500">
             <Filter size={20} />

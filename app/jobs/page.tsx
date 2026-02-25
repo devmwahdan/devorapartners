@@ -50,7 +50,7 @@ export default function JobsPage() {
             <div className="bg-indigo-600 p-2 rounded-xl shadow-lg shadow-indigo-100">
               <Briefcase size={20} className="text-white" />
             </div>
-            <h1 className="text-xl font-display font-bold tracking-tight text-slate-900">Elite Opportunities</h1>
+            <h1 className="text-xl font-display font-bold tracking-tight text-slate-900">devorapartners Opportunities</h1>
           </div>
           <div className="flex items-center gap-3">
             <button className="p-2.5 hover:bg-slate-100 rounded-xl transition-colors text-slate-500">
@@ -73,7 +73,7 @@ export default function JobsPage() {
             <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-400 group-focus-within:text-indigo-600 transition-colors" size={20} />
             <input 
               className="w-full bg-slate-50 border border-slate-200 rounded-2xl py-4 pl-12 pr-4 focus:ring-4 focus:ring-indigo-500/10 focus:border-indigo-500/50 transition-all text-base outline-none" 
-              placeholder="Search elite AI roles (e.g. 'LLM Engineer', 'Product Designer')..." 
+              placeholder="Search devorapartners AI roles (e.g. 'LLM Engineer', 'Product Designer')..." 
               type="text"
             />
           </div>

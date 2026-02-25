@@ -19,7 +19,7 @@ export default function SettingsPage() {
       title: 'Professional',
       items: [
         { icon: Globe, label: 'Visibility', desc: 'Control who can see your profile' },
-        { icon: Zap, label: 'Elite Status', desc: 'Manage your vetting and badges' },
+        { icon: Zap, label: 'devorapartners Status', desc: 'Manage your vetting and badges' },
         { icon: CreditCard, label: 'Billing', desc: 'Manage your enterprise subscription' },
       ],
     },

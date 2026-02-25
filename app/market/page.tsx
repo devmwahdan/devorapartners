@@ -53,7 +53,7 @@ export default function MarketPage() {
           >
             <div className="space-y-1">
               <h3 className="text-2xl font-display font-bold text-slate-900">Global Salary Trends</h3>
-              <p className="text-sm text-slate-500 font-medium">Real-time data from Elite placements.</p>
+              <p className="text-sm text-slate-500 font-medium">Real-time data from devorapartners placements.</p>
             </div>
             <div className="space-y-4">
               {trends.map((trend, i) => (

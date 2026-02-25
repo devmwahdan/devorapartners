@@ -54,8 +54,8 @@ export default function ContactPage() {
 
           <div className="space-y-8">
             {[
-              { icon: Mail, label: 'Email Us', value: 'hello@elite-recruitment.ai', color: 'indigo' },
-              { icon: Phone, label: 'Call Us', value: '+1 (555) 000-ELITE', color: 'indigo' },
+              { icon: Mail, label: 'Email Us', value: 'hello@devorapartners.ai', color: 'indigo' },
+              { icon: Phone, label: 'Call Us', value: '+1 (555) 000-DEVORA', color: 'indigo' },
               { icon: MapPin, label: 'Global HQ', value: 'Remote First • San Francisco, CA', color: 'indigo' },
             ].map((item, i) => (
               <motion.div 

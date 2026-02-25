@@ -16,7 +16,7 @@ export default function AboutPage() {
             <div className="flex size-10 items-center justify-center rounded-xl bg-indigo-600 text-white shadow-lg shadow-indigo-200 group-hover:scale-105 transition-transform">
               <Zap size={22} fill="currentColor" />
             </div>
-            <h1 className="text-xl font-display font-bold tracking-tight text-slate-900">Elite<span className="text-indigo-600">Recruit</span></h1>
+            <h1 className="text-xl font-display font-bold tracking-tight text-slate-900">devora<span className="text-indigo-600">partners</span></h1>
           </Link>
           <button className="md:hidden p-2.5 hover:bg-slate-100 rounded-xl transition-colors text-slate-500">
             <ArrowRight size={20} />
@@ -49,7 +49,7 @@ export default function AboutPage() {
             transition={{ delay: 0.2 }}
             className="text-xl text-slate-600 leading-relaxed max-w-3xl mx-auto lg:mx-0"
           >
-            Elite is a world-class AI-first recruitment platform designed to connect the most innovative global tech enterprises with exceptional, pre-vetted talent.
+            devorapartners is a world-class AI-first recruitment platform designed to connect the most innovative global tech enterprises with exceptional, pre-vetted talent.
           </motion.p>
           <motion.div 
             initial={{ opacity: 0, y: 20 }}
@@ -58,7 +58,7 @@ export default function AboutPage() {
             className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start pt-4"
           >
             <Link href="/register" className="inline-flex h-14 items-center justify-center rounded-2xl bg-indigo-600 px-10 text-base font-bold text-white shadow-xl shadow-indigo-100 hover:bg-indigo-700 hover:scale-[1.02] transition-all">
-              Join the Elite 1%
+              Join devorapartners 1%
             </Link>
             <Link href="/enterprise" className="inline-flex h-14 items-center justify-center rounded-2xl border-2 border-slate-200 bg-white px-10 text-base font-bold text-slate-900 hover:bg-slate-50 transition-all">
               Enterprise Solutions
@@ -79,9 +79,9 @@ export default function AboutPage() {
                 &quot;We are building a future where opportunities are accessible based on skill, not geography. Our platform leverages advanced AI to ensure a fair and meritocratic hiring process for everyone, everywhere.&quot;
               </p>
               <div className="flex items-center gap-4 pt-4">
-                <div className="size-12 rounded-full bg-indigo-600 flex items-center justify-center text-white font-black">E</div>
+                <div className="size-12 rounded-full bg-indigo-600 flex items-center justify-center text-white font-black">D</div>
                 <div>
-                  <p className="font-bold">Elite Leadership Team</p>
+                  <p className="font-bold">devorapartners Leadership Team</p>
                   <p className="text-slate-400 text-xs font-bold uppercase tracking-widest">San Francisco • Remote First</p>
                 </div>
               </div>

@@ -58,7 +58,7 @@ export default function ProcessPage() {
             animate={{ opacity: 1, y: 0 }}
             className="inline-block px-4 py-1.5 text-[10px] font-black tracking-[0.2em] uppercase text-indigo-600 bg-indigo-50 border border-indigo-100 rounded-full"
           >
-            Elite AI-First Recruitment
+            devorapartners AI-First Recruitment
           </motion.span>
           <motion.h1 
             initial={{ opacity: 0, y: 20 }}
@@ -119,7 +119,7 @@ export default function ProcessPage() {
         <div className="bg-slate-900 rounded-[3rem] p-12 text-center space-y-8 shadow-2xl shadow-indigo-100">
           <h2 className="text-3xl font-display font-bold text-white">Ready to start your journey?</h2>
           <p className="text-slate-400 max-w-xl mx-auto font-medium">
-            Join the elite network of developers and designers working at the forefront of AI and technology.
+            Join the devorapartners network of developers and designers working at the forefront of AI and technology.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/register" className="bg-indigo-600 text-white font-black py-4 px-10 rounded-2xl hover:bg-indigo-700 transition-all uppercase tracking-widest text-sm">

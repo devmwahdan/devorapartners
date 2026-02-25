@@ -18,7 +18,7 @@ const outfit = Outfit({
 });
 
 export const metadata: Metadata = {
-  title: 'Elite Recruitment | Top 1% Global Tech Talent',
+  title: 'devorapartners | Top 1% Global Tech Talent',
   description: 'AI-First recruitment platform connecting world-class tech enterprises with the top 1% of global talent.',
 };
 

@@ -55,7 +55,7 @@ export default function EnterprisePage() {
               transition={{ delay: 0.2 }}
               className="text-xl text-slate-600 leading-relaxed font-medium"
             >
-              Elite is an AI-first platform for global top 1% talent. Streamline your enterprise hiring with automated vetting, predictive matching, and global compliance.
+              devorapartners is an AI-first platform for global top 1% talent. Streamline your enterprise hiring with automated vetting, predictive matching, and global compliance.
             </motion.p>
             <motion.div 
               initial={{ opacity: 0, y: 20 }}

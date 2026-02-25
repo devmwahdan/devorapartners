@@ -135,7 +135,7 @@ export default function DashboardPage() {
             {/* Recommendations */}
             <div className="space-y-6">
               <div className="flex items-center justify-between">
-                <h3 className="text-2xl font-display font-bold text-slate-900">Elite Recommendations</h3>
+                <h3 className="text-2xl font-display font-bold text-slate-900">devorapartners Recommendations</h3>
                 <Link href="/jobs" className="text-indigo-600 text-sm font-bold hover:underline">View All</Link>
               </div>
 
@@ -186,7 +186,7 @@ export default function DashboardPage() {
               <div className="pt-6 border-t border-white/10 space-y-4">
                 <div className="flex justify-between items-center">
                   <span className="text-xs text-slate-400 font-bold uppercase tracking-widest">Vetting Status</span>
-                  <span className="text-[10px] font-black bg-indigo-600 px-2 py-1 rounded-lg uppercase tracking-widest">Elite 1%</span>
+                  <span className="text-[10px] font-black bg-indigo-600 px-2 py-1 rounded-lg uppercase tracking-widest">devorapartners 1%</span>
                 </div>
                 <div className="flex justify-between items-center">
                   <span className="text-xs text-slate-400 font-bold uppercase tracking-widest">Profile Strength</span>
